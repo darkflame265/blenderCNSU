@@ -3,4 +3,4 @@
 ![desk2](https://github.com/user-attachments/assets/4f09cda0-4627-4859-8d2b-5eb5278cb589)
 ![스크린샷 2025-06-18 144422](https://github.com/user-attachments/assets/c390b361-bb33-4bec-8ccb-d9db9aa23162)
 
-https://www.loom.com/share/906625e4359f41b7a95c7f810421d251
+결과물 동영상: https://www.loom.com/share/906625e4359f41b7a95c7f810421d251
