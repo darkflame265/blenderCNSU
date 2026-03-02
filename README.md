@@ -6,6 +6,14 @@
 
 ---
 
+## 시연 영상
+
+[![Demo Video](https://img.shields.io/badge/Watch%20on-Loom-00D4AA?logo=loom&logoColor=white)](https://www.loom.com/share/906625e4359f41b7a95c7f810421d251)
+
+> 👉 [https://www.loom.com/share/906625e4359f41b7a95c7f810421d251](https://www.loom.com/share/906625e4359f41b7a95c7f810421d251)
+
+---
+
 ## 프로젝트 개요
 
 실제 강의실을 직접 촬영한 사진을 레퍼런스로 삼아, Blender에서 강의실 내부를 재현한 3D 모델입니다.
